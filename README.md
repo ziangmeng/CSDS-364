@@ -1,1 +1,2 @@
-# CSDS-364
+# CSDS-464
+An introduction to the information processing and computational algorithms that underlie perception. The course focuses on vision and audition but also covers other senses and various types of perceptual processing in biological systems. The motivating question is: What are the fundamental computational problems faced by perceptual systems in complex environments? The course draws from fields in engineering and the study of biological perception. Specific topics include signal detection and processing; sound localization; motion perception and estimation; sensory coding; perception of structure; active perception; perceptual invariance; attention; object, sound and speech recognition; visual and auditory scene analysis.
